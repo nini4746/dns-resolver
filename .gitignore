@@ -1,0 +1,7 @@
+# Build artifacts
+/resolve
+/test_message
+/test_cache
+/test_cname
+*.o
+*.dSYM/
