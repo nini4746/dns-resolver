@@ -144,6 +144,8 @@ dns-resolver/
 
 - [docs/SRS.md](docs/SRS.md) - 요구사항 명세
 - [docs/SDS.md](docs/SDS.md) - 설계 명세: 구성도, 시퀀스, ERD/자료구조, 모듈
+- [docs/adr/](docs/adr/README.md) - 설계 결정 기록
+- [CHANGELOG.md](CHANGELOG.md) - 변경 이력
 - [SPEC](.planning/SPEC.md) - 원본 명세 (요구사항 R1-R7, 범위, must-NOT)
 - [plans](.planning/plans/) - 단계별 구현 계획 (메시지, UDP, 반복 질의, CNAME, 캐시/CLI)
 
